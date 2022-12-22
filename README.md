@@ -1,3 +1,9 @@
+# Personal Websites
+
+[中文](./README-zh.md) / EN
+
+This is my personal, built with Nuxt
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
